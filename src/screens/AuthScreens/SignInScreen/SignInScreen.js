@@ -11,7 +11,7 @@ import React from 'react';
 import styles from './styles';
 import * as GlobalStyles from '../../../globalStyles/GlobalStyles';
 import InputBox from '../../../components/InputBox/InputBox';
-import Button from '../../../Button/Button';
+import Button from '../../../components/Button/Button';
 
 const SignInScreen = () => {
   return (
